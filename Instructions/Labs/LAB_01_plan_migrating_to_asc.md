@@ -187,7 +187,7 @@ You have now identified the resources you will need to proceed with the first st
 <details>
 <summary>hint</summary>
 <br/>
-For connecting to the Azure platform, you can use either the [Azure portal](http://portal.azure.com), or command line tools such as [Azure CLI](https://docs.microsoft.com/cli/azure/what-is-azure-cli). The latter might be more challenging, but it will facilitate scripting your setup and making it repeatable in case anything needs to change or recreated.
+For connecting to the Azure platform, you can use either the <a href="https://portal.azure.com" target="_top">Azure portal</a>, or command line tools such as <a href="https://docs.microsoft.com/cli/azure/what-is-azure-cli" target="_top">Azure CLI</a>. The latter might be more challenging, but it will facilitate scripting your setup and making it repeatable in case anything needs to change or recreated.
 In your lab environment, make sure you can log into the Azure portal by using the credentials that were provided to you for running the lab.
 
 It is also a good idea to double check whether Azure CLI was correctly installed in your lab environment by running the following command from the Git Bash shell window:
